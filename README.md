@@ -10,8 +10,8 @@ NOTE: You don't NEED a VPN for this (which is why iOS is superior)
 
 1. Go to [https://appleid.apple.com/account] to make a new account and follow as normal.
     * Make sure to select your region to Japan!!!
+![](bxguide_region.png) 
     * You can still use a US phone number to sign up.
-![](bxguide_region.png)  
 2. After doing a CAPTCHA and verifying email and phone number, your account should be made.
 3. On your iOS device, go to Settings -> your account -> Media and Purchases -> sign out. This is so it only switches to your new account for App Store and not your entire phone/device.
     * Alternatively, go to App Store -> tap your account icon -> scroll down to Sign Out. Then log in to your new account from there.
